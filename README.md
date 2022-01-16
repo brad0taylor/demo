@@ -1,10 +1,13 @@
-# JupyterLite Demo
+# Brad's JupyterLite Demo
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+JupyterLite deployed as a static site to GitHub Pages
+Instructions here 
+
+**https://twitter.com/jmshea/status/1482410303635689473**
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://jupyterlite.github.io/demo**
+➡️ **https://brad0taylor.github.io/labtest/**
 
 ![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
